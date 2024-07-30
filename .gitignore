@@ -1,4 +1,5 @@
 /node_modules
+/CurdApi
 debugging-results
 .dummy
 *.zip
